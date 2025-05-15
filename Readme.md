@@ -12,7 +12,7 @@ powershell -c "irm https://astral.sh/uv/install.ps1 | iex"
 git clone https://github.com/sourav-bhowal/DAP-LAB-CODES.git
 ```
 
-# Step 2 -
+## Step 2 -
 ### Change directory to the desired directory
 ```bash
 cd path/to/your/directory
